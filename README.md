@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi, I'm Trinesh 👋 
+### From Mangalagiri, Andhra Pradesh 🇮🇳
 
-<!--
-**amudalatrinesh-tech/amudalatrinesh-tech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚀 My Live Projects
 
-Here are some ideas to get you started:
+| Project Name | Live Demo | Source Code |
+| --- | --- | --- |
+| Tiffin Center Form | [View Site](https://amudalatrinesh-tech.github.io/my-project/) | [Code](https://github.com/amudalatrinesh-tech/my-project) |
+| Portfolio | Coming Soon... | Coming Soon... |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Skills
+HTML | CSS | JavaScript | GitHub Pages
+
+## 📫 Connect With Me
+WhatsApp: +91XXXXXXXXXX
+
+---
+⭐ Star my repos if you like them!
