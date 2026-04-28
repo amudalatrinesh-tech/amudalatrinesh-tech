@@ -1,18 +1,19 @@
 # Hi, I'm Trinesh 👋 
-### From Mangalagiri, Andhra Pradesh 🇮🇳
+### Web Developer from Khammam, TS 🇮🇳
 
 ## 🚀 My Live Projects
 
-| Project Name | Live Demo | Source Code |
-| --- | --- | --- |
-| Tiffin Center Form | [View Site](https://amudalatrinesh-tech.github.io/my-project/) | [Code](https://github.com/amudalatrinesh-tech/my-project) |
-| Portfolio | Coming Soon... | Coming Soon... |
+| Project Name | Live Demo | Source Code | Tech Used |
+| --- | --- | --- | --- |
+| JS Forms | [View Site](https://amudalatrinesh-tech.github.io/my-project/) | [Code](https://github.com/amudalatrinesh-tech/my-project) | HTML, CSS, JS |
 
-## 🔧 Skills
-HTML | CSS | JavaScript | GitHub Pages
+## 🔧 Currently Learning
+HTML5 | CSS3 | JavaScript | Git & GitHub
 
-## 📫 Connect With Me
-WhatsApp: +91XXXXXXXXXX
+## 🎯 Goals 2026
+- Build 10+ mini projects
+- Learn React.js
+- Get a dev job
 
 ---
-⭐ Star my repos if you like them!
+📧 Found a bug? Open an issue in the repo!
