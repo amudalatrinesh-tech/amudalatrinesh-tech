@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Recipe Finder App</title>
+
+    <link
+        rel="stylesheet"
+        href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.1/css/all.min.css"
+    >
+
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+
+<div class="container">
+
+    <div class="headings">
+        <h1 id="h1">Recipe Finder</h1>
+        <h3 id="h2">Find delicious recipes from around the world!</h3>
+    </div>
+
+    <div class="searchBox">
+        <input
+            type="text"
+            placeholder="Search for your recipe...."
+            id="box"
+        >
+
+        <button id="btn">Search</button>
+    </div>
+
+    <div id="error-container" class="hidden">
+        <p>No recipes are found. Try another one!</p>
+    </div>
+
+    <div id="result-heading"></div>
+
+    <!-- Recipe cards -->
+    <div id="meals" class="meals-container"></div>
+
+    <!-- Recipe details -->
+    <div id="meals-container" class="hidden">
+
+        <button id="back-btn">
+            <i class="fas fa-arrow-left"></i>
+            Back to recipes
+        </button>
+
+        <div class="meal-details-content"></div>
+
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
