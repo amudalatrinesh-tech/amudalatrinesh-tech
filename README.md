@@ -8,7 +8,7 @@
 
 | 🍽️ **Restaurant Website** | [View Site](https://amudalatrinesh-tech.github.io/restaurant-website-demo/) | [View Code](https://github.com/amudalatrinesh-tech/restaurant-website-demo) | HTML, CSS, JavaScript |
 
-| 🌦️ **Weather App** | [View Site](https://amudalatrinesh-tech.github.io/weather-app/) | [View Code](https://github.com/amudalatrinesh-tech/weather-app) | HTML, CSS, JavaScript |
+| 🌦️ **Weather App** | [View Site](https://amudalatrinesh-tech.github.io/weather_app/) | [View Code](https://github.com/amudalatrinesh-tech/weather_app) | HTML, CSS, JavaScript |
 
 | 🍽️ **Recipe Finder App** | [View Site](https://amudalatrinesh-tech.github.io/recipe-finder-app/) | [View Code](https://github.com/amudalatrinesh-tech/recipe-finder-app) | HTML, CSS, JavaScript |
 
