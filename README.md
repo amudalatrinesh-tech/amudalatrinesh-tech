@@ -1,7 +1,7 @@
 # Hi, I'm Trinesh 👋
 ### Web Developer from Khammam, TS 🇮🇳
 
-## 🚀 My Live Projects
+##  My Live Projects
 
 | Project Name | Live Demo | Source Code | Tech Used |
 | --- | --- | --- | --- |
